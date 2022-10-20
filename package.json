@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "prettier": "2.7.1"
+  },
+  "engines": {
+    "npm": "please-use-pnpm-not-npm"
+  }
+}
