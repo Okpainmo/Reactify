@@ -1,0 +1,24 @@
+# node modules
+
+node_modules
+
+# husky 
+
+.husky
+
+# git
+
+.gitignore
+
+# prettier
+
+.prettierrc.json
+
+# license
+
+LICENSE
+
+# package management
+
+package.json
+pnpm-lock.yaml
