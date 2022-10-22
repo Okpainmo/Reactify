@@ -4,16 +4,24 @@ Reactify is an opensource/Hacktoberfest project that is primarily built to help 
 
 To Learn about the different ways you can contribute, Please read the [project announcement article](https://zhacks.hashnode.dev/finish-celebrating-hacktoberfest-2022-by-contributing-to-reactify)
 
-## This project contains six(6) branches. Each with it's unique purposes.
+## The Reactify blog
 
-> 1. The [“main” branch](https://github.com/Okpainmo/Reactify/tree/main) which serves as an introductory page to help contributors get along with the project.
+The Reactify blog is an amazing project that will host all the technical articles that are being contributed to the Reactify project.
 
-> 2. The [“reactify-reactjs”](https://github.com/Okpainmo/Reactify/tree/reactify-reactjs) branch - for contributing ReactJs technical articles, and making other related contributions.
+The main technologies used in building the blog/web-app are:
 
-> 3. The [“reactify-nextjs”](https://github.com/Okpainmo/Reactify/tree/reactify-nextjs) branch - for contributing NextJs technical articles, and making other related contributions.
+- NextJs(using SSR pre-rendering technique).
+- Tailwind CSS for styling.
+- Contentful CMS for Data management.
 
-> 4. The [“reactify-opensource”](https://github.com/Okpainmo/Reactify/tree/reactify-opensource) branch - for contributing opensource related articles, and making other related contributions.
+The [Reactify blog](https://reactify-blog.vercel.app) is already hosted live. But the project is built on [another Github repository](https://github.com/Okpainmo/slik) - the branch name on the previous repository that is currently hosting the blog is the "slik-opensource" branch.
 
-> 5. The [“reactify-contentful”](https://github.com/Okpainmo/Reactify/tree/reactify-contentful) branch - for contributing Contentful CMS technical articles, and making other related contributions.
+The main task on this branch currently, is to transfer the blog project from the previous repository, to this branch of this repository.
 
-> 6. The [“reactify-blog”]() branch/project core: This branch will contain the Reactify blog. This is the most delicate and important branch on the project. It will contain the Reactify blog project(source code and everything).
+Contributors are welcome to take on that task. Any contributor that's willing to take on that task hould simply do the following.
+
+1. Read the [project announcement article](https://zhacks.hashnode.dev/finish-celebrating-hacktoberfest-2022-by-contributing-to-reactify) - please endeavour to go through the article carefully. This task is a crucial one.
+
+2. Create a new issue regarding this task.
+
+3. Contact a maintainer to assign the task, before proceeding to handle it.
