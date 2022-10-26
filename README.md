@@ -2,6 +2,8 @@
 
 Reactify is an opensource/Hacktoberfest project that is primarily built to help people learn ReactJs and NextJs. It's an amazing opensource project for contributors(writer, developers, and technical writers) to make impact primarily in the ReactJs Ecosystem.
 
+Please read [this CONTRIBUTING.md file](https://github.com/Okpainmo/Reactify/blob/main/CONTRIBUTING.md) to help you get started with contributing.
+
 To Learn about the different ways you can contribute, Please read the [project announcement article](https://zhacks.hashnode.dev/finish-celebrating-hacktoberfest-2022-by-contributing-to-reactify)
 
 ## The Reactify blog
