@@ -38,10 +38,10 @@ Read the Reactify project release article - https://zhacks.hashnode.dev/finish-c
 
 ### Publicity id: 1.
 
-- **Sharer name:** Add your name here.
-- **Github username of Sharer:** Add your github username here.
-- **Publicity medium:** Twitter/Linkedin/Blog post.
-- **URL/Link to shared content:** add link to shared content here.
+- **Sharer name:** Adeogun Marvellous
+- **Github username of Sharer:** MarsIncarnate.
+- **Publicity medium:** Twitter post.
+- **URL/Link to shared content:** https://twitter.com/MarsReborn/status/1586810404604465152?s=20&t=rVrHYbHAHFF7qfXPF38PSA.
 
 <hr/>
 
